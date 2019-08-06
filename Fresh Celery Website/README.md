@@ -1,19 +1,15 @@
-# final-project-team-29
-final-project-final-project created by GitHub Classroom
-
 OVERVIEW:
 
 Website Name: Fresh Celery 
 Pages: Home, Trending Movies, Coming Soon, Featured Critics, Search
 
 Home: 
-
 Page will include:
 Navigation bar with all pages
 Name and logo at top
 Several swatches showing information
 Celery scores displayed next to movie (critic and audience)
-
+User generated reviews with review button
 
 Trending Movies: 
 Movies featured: Avengers: Endgame, Aladdin, Rocketman, John Wick: Chapter 3 - Parabellum, Ma
@@ -50,19 +46,6 @@ Description of critic (biography and their favorite movie)
 Picture of critic
 Similar to Coming Soon, displays information in a list
 Their most recent review on a movie, leads to a link of movie (Trending Movies)
-
-Search (tentative):
-
-Page will include:
-Combined list of everything on the website
-Trending Movies
-Coming Soon
-Critic’s Reviews
-Critic’s Bio
-User-Generated Reviews
-Search Bar hovers above list of information
-As search bar is filled, information disappears from the webpage
-Each result links to either the movie it’s talking about, nothing at all (coming soon), or the critic’s biography
 
 Credit:
 
