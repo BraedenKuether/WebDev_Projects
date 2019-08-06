@@ -1,5 +1,7 @@
 OVERVIEW:
 
+TO VIEW WEBSITE HOME: views > index.html
+
 Website Name: Fresh Celery 
 Pages: Home, Trending Movies, Coming Soon, Featured Critics, Search
 
